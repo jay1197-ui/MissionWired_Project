@@ -18,9 +18,11 @@ This project focuses on analyzing subscription data related to constituents. Usi
 
 # Data Sources
 
-- Constituent Information: 'cons.csv'
-- Constituent Email Addresses: 'cons_email.csv'
-- Constituent Subscription Status: 'cons_email_chapter_subscription.csv'
+Data Sources
+
+Constituent Information: cons.csv (https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons.csv)
+Constituent Email Addresses: cons_email.csv (https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email.csv)
+Constituent Subscription Status: cons_email_chapter_subscription.csv (https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email_chapter_subscription.csv)
 
 # Getting Started
 
@@ -59,3 +61,5 @@ The project includes visualizations that display the distribution of daily acqui
 # Conclusion
 
 This project provides a structured approach to analyzing subscription data, offering insights into constituent behavior and subscription trends.
+
+
